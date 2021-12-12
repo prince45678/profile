@@ -1,0 +1,53 @@
+body{
+    margin:auto
+}
+#heading{
+    height:60px;
+    background-color: rgb(53, 94, 148);
+    
+    
+}
+
+.card{
+    height:400px;
+    width:15%;
+    background-color:#756f73;
+    float: left;
+    margin-left:7%;
+    margin-top: 2%;
+    
+}
+
+.card1{
+    height:150px;
+    width:26%;
+    background-color:#6e696d;
+    float: left;
+    margin-left:7%;
+    margin-top: 7%;
+    
+}
+
+.card2{
+    height:200px;
+    width:auto;
+    background-color:rgb(53, 94, 148);
+
+}
+.card3{
+    margin-top: 1%;
+}
+.box{
+    position:relative;
+    display:inline-block
+}
+
+.box .text{
+    position:relative;
+    margin:0 auto;
+    background-color:peru;
+    text-align:center;
+    width:auto;
+    height:540px;
+}
+
